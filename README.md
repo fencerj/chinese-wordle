@@ -1,6 +1,6 @@
 # 拼成语 | Chinese Wordle
 
-<https://allanchain.github.io/chinese-wordle/>
+<https://fencerj.github.io/chinese-wordle/>
 
 **太长不看：** 这是一个根据声母和韵母猜成语的小游戏。 必须输入一个合法的成语。 尽量在浏览器打开，而非微信。 
 
@@ -50,6 +50,6 @@
 
 ##  项目 
 
- 本项目[在 GitHub 开源](https://github.com/AllanChain/chinese-wordle)，如有问题和建议欢迎提出。 
+ 本项目[在 GitHub 开源](https://github.com/fencerj/chinese-wordle)，如有问题和建议欢迎提出。 
 
  项目的灵感来自于 wordle，很容易搜到，不多叙述。 
